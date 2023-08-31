@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuelamunoz
-- 👀 I’m interested in Automation from Processes
-- 🌱 I’m currently learning Sytemintegration informatic and Scripting
-- 💞️ I’m looking to collaborate on Jamf Admin Management Solutions 
+- 👀 I’m interested in Automation from Processes and make things simple as possible
+- 🌱 I graduated in Sytemintegration informatic and Scripting in Germany
+- 💞️ I’m looking to collaborate on Jamf Admin Management Solutions
 - 📫 How to reach me ...
 
 <!---
